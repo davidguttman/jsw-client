@@ -1,0 +1,31 @@
+{
+  "name": "jsw-client",
+  "version": "0.0.0",
+  "description": "jsw-client ==========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidguttman/jsw-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidguttman/jsw-client/issues"
+  },
+  "homepage": "https://github.com/davidguttman/jsw-client",
+  "dependencies": {
+    "underscore": "^1.6.0",
+    "directify": "^0.1.2",
+    "cssify": "^0.5.0",
+    "bean": "^1.0.6",
+    "event-stream": "^3.1.2",
+    "multilevel": "^5.6.0",
+    "shoe": "0.0.15",
+    "fuse.js": "^1.1.0",
+    "hypnotable": "^0.6.0",
+    "simple-timeseries": "^0.1.0"
+  }
+}
